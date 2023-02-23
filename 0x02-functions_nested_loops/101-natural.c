@@ -2,10 +2,10 @@
 
 /**
  * main - Prints the sum of all multiples of 3 and 5 upto 1024
- * Return: Always 0 (Success)
+ * Return: Always (Success)
  */
 
-int (main)void
+int main(void)
 
 {
 	int i, z = 0;
